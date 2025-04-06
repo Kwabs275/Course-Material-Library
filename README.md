@@ -1,7 +1,7 @@
 # **Project Title: Course Material Library**  
 
 ## **Project Overview**  
-The **Course Material Library** is a web-based platform designed to help students easily access course materials based on their level of study, school, and program. The system allows users to select their academic level, choose their school, and pick a specific program to view available lecture slides and resources.  
+The **Course Material Library** is a web-based platform designed to help students of the University of Energy and Natural Resources to easily access course materials based on their level of study, school, and program. The system allows users to select their academic level, choose their school, and pick a specific program to view available lecture slides and resources.  
 
 ## **Project Objectives**  
 - To provide an organized way for students to access lecture materials.  
