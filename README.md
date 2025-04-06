@@ -7,7 +7,6 @@ The **Course Material Library** is a web-based platform designed to help student
 - To provide an organized way for students to access lecture materials.  
 - To allow students to filter content based on academic level and program of study.  
 - To ensure seamless navigation and interaction through a user-friendly interface.  
-- To store and retrieve data efficiently.
 
 ## **Key Features**  
 - **Dropdown Selection System**: Users can choose their **Level (100-400), School, and Program**.  
